@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Elshab7_RSS_News_App</string>
+    <string name="settingsItem">Feed Settings</string>
+    <string name="stringClose">Exit</string>
+    <string name="overflow">&#8942;</string>
+    <string name="title_activity_settingsctivity">Setting sctivity</string>
+    <string name="LinkEdit">Edit</string>
+    <string name="LinkDelete">Delete</string>
+</resources>
